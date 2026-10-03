@@ -1,0 +1,6 @@
+{
+  "ENV_NAME": "staging",
+  "API_BASE_URL": "https://api.example.com/v1",
+  "SSL_PINS": "",
+  "ENABLE_HTTP_LOGGING": false
+}

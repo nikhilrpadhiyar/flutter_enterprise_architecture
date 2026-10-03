@@ -1,0 +1,6 @@
+include: ../analysis_options.yaml
+
+# Tests and tools do not need documentation on every member.
+linter:
+  rules:
+    public_member_api_docs: false

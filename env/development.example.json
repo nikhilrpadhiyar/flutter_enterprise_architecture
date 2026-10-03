@@ -1,0 +1,6 @@
+{
+  "ENV_NAME": "development",
+  "API_BASE_URL": "http://localhost:8080/v1",
+  "SSL_PINS": "",
+  "ENABLE_HTTP_LOGGING": true
+}
